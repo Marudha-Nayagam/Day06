@@ -1,0 +1,2 @@
+# Day06
+ZEN TASK 6
